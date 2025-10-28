@@ -1,11 +1,11 @@
 # 🧠 My Git Mastery Challenge Journey
 
 ## 👤 Student Information
-- **Name:** ALLA UMESH  
-- **Student ID:** 23MH1A05E7  
-- **Repository:** [https://github.com/Umeshh27/git-solved-23mh1a05e7](https://github.com/Umeshh27/git-solved-23mh1a05e7)  
-- **Date Started:** 26-10-2025  
-- **Date Completed:** 26-10-2025  
+- **Name:** KILARI USHODAYA  
+- **Student ID:** 23MH1A05H8
+- **Repository:** [https://github.com/usha3107/git-solved-23MH1A05H8]  
+- **Date Started:** 27-10-2025  
+- **Date Completed:** 28-10-2025  
 
 ---
 
@@ -104,5 +104,5 @@ Overall, this challenge helped me build strong version control habits — crucia
 
 ---
 
-📅 **Completed on:** 26-10-2025  
+📅 **Completed on:** 28-10-2025  
 🎓 **Status:** ✅ Successfully Completed  
