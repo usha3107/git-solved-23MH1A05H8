@@ -4,7 +4,7 @@ application:
   name: DevOpsSimulator
   version: 1.0.0
   environment: production
-  experimental_mode: false   # can be enabled via env flag
+  experimental_mode: false # can be enabled via env flag
 
 server:
   host: 0.0.0.0

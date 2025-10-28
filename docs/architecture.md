@@ -95,11 +95,11 @@ It supports three key environments — **Production**, **Development**, and **Ex
 ---
 
 ## Security
-| Environment | Encryption | Access Control | Notes |
-|--------------|-------------|----------------|-------|
-| **Production** | SSL/TLS | Strict | Enforced compliance and monitoring |
-| **Development** | Disabled (for debugging) | Relaxed | Easier local testing |
-| **Experimental** | AES-256 + Zero-Trust | AI-based anomaly detection | Continuous adaptive security |
+| Environment      | Encryption               | Access Control             | Notes                              |
+| ---------------- | ------------------------ | -------------------------- | ---------------------------------- |
+| **Production**   | SSL/TLS                  | Strict                     | Enforced compliance and monitoring |
+| **Development**  | Disabled (for debugging) | Relaxed                    | Easier local testing               |
+| **Experimental** | AES-256 + Zero-Trust     | AI-based anomaly detection | Continuous adaptive security       |
 
 ---
 

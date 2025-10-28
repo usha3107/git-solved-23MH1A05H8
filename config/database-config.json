@@ -13,7 +13,6 @@
       "retention_days": 30
     }
   },
-
   "development": {
     "connection": {
       "host": "localhost",
@@ -31,7 +30,6 @@
       "debug_queries": true
     }
   },
-
   "experimental": {
     "connection": {
       "type": "distributed",
@@ -63,7 +61,11 @@
       "replicas": 5,
       "sync_mode": "semi-synchronous",
       "multi_region": true,
-      "regions": ["us-east", "eu-west", "ap-south"]
+      "regions": [
+        "us-east",
+        "eu-west",
+        "ap-south"
+      ]
     },
     "ai_optimization": {
       "query_optimization": true,
